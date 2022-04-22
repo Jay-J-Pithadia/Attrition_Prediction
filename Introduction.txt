@@ -1,0 +1,5 @@
+In this Repository, 
+
+I have predicted the Attrition of IBM employees using ML techniques,
+
+with the help of given csv file.
